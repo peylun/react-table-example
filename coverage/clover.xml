@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1512963025128" clover="3.2.0">
+  <project timestamp="1512963025128" name="All files">
+    <metrics statements="60" coveredstatements="57" conditionals="45" coveredconditionals="34" methods="30" coveredmethods="30" elements="135" coveredelements="121" complexity="0" loc="60" ncloc="60" packages="1" files="8" classes="8">
+      <file name="PaginationControl.jsx" path="D:\hackathon\eyeota-coding-project-ui\app\component\PaginationControl.jsx">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+      </file>
+      <file name="SortableTable.jsx" path="D:\hackathon\eyeota-coding-project-ui\app\component\SortableTable.jsx">
+        <metrics statements="34" coveredstatements="32" conditionals="24" coveredconditionals="14" methods="15" coveredmethods="15"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="45" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="57" count="2" type="stmt"/>
+        <line num="65" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="66" count="4" type="stmt"/>
+        <line num="68" count="8" type="stmt"/>
+        <line num="69" count="8" type="stmt"/>
+        <line num="71" count="8" type="stmt"/>
+        <line num="73" count="8" type="stmt"/>
+        <line num="76" count="7" type="stmt"/>
+        <line num="81" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="88" count="4" type="stmt"/>
+        <line num="90" count="4" type="stmt"/>
+        <line num="93" count="4" type="stmt"/>
+        <line num="98" count="4" type="stmt"/>
+        <line num="102" count="19" type="stmt"/>
+      </file>
+      <file name="Table.jsx" path="D:\hackathon\eyeota-coding-project-ui\app\component\Table.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+      <file name="TableBody.jsx" path="D:\hackathon\eyeota-coding-project-ui\app\component\TableBody.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+      <file name="TableCell.jsx" path="D:\hackathon\eyeota-coding-project-ui\app\component\TableCell.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+      <file name="TableHeader.jsx" path="D:\hackathon\eyeota-coding-project-ui\app\component\TableHeader.jsx">
+        <metrics statements="3" coveredstatements="3" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="12" count="2" type="cond" truecount="5" falsecount="0"/>
+        <line num="16" count="2" type="stmt"/>
+      </file>
+      <file name="TableHeaderCell.jsx" path="D:\hackathon\eyeota-coding-project-ui\app\component\TableHeaderCell.jsx">
+        <metrics statements="12" coveredstatements="11" conditionals="14" coveredconditionals="13" methods="2" coveredmethods="2"/>
+        <line num="5" count="9" type="stmt"/>
+        <line num="6" count="9" type="stmt"/>
+        <line num="7" count="9" type="stmt"/>
+        <line num="9" count="9" type="cond" truecount="1" falsecount="1"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="3" type="stmt"/>
+        <line num="29" count="9" type="stmt"/>
+      </file>
+      <file name="TableRow.jsx" path="D:\hackathon\eyeota-coding-project-ui\app\component\TableRow.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>

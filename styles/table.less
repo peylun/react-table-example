@@ -1,0 +1,40 @@
+.pl-table {
+	width: 100%;
+	border-collapse: collapse;
+
+	.pl-table-header {
+		background: #f3f3f3;
+		border-bottom: 2px solid #ddd;
+
+		.pl-table-header-cell {
+			padding: 8px;
+			text-align: left;
+			border-top: 3px solid #f3f3f3;
+
+			&:hover {
+				cursor: pointer;
+				color: #9ec19e;
+				border-top: 3px solid #9ec19e;
+			}
+
+			.pl-table-header-name {
+				display: inline-block;
+			}
+			.pl-table-header-icons {
+				display: inline-block;
+				margin-left: 5px;
+			}
+		}
+	}
+	.pl-table-body {
+		.pl-table-row {
+			border-bottom: 1px dashed #ccc;
+			&:hover {
+				background: #fafafa;
+			}
+		}
+		.pl-table-cell {
+			padding: 8px;
+		}
+	}
+}

@@ -1,0 +1,49 @@
+.pl-page-ctrl {
+	display: flex;
+	padding: 8px 0;
+	background: #f9f9f9;
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	font-size: 12px;
+
+	.pl-page-ctrl-nav {
+		> button {
+			font-weight: bold;
+			width: 100%;
+			background: none;
+			outline: none;
+			border: none;
+
+			&:not([disabled]):hover {
+				cursor: pointer;
+				color: #8bb98b;
+			}
+		}
+		&.pl-page-ctrl-nav-previous {
+			i {
+				margin-right: 10px;
+			}
+		}
+		&.pl-page-ctrl-nav-next {
+			i {
+				margin-left: 10px;
+			}
+		}
+	}
+	.pl-page-ctrl-info {
+		flex: 1;
+		text-align: center;
+
+		> div {
+			display: inline-block;
+			+ div {
+				margin-left: 25px;
+			}
+		}
+
+		.pl-page-number-info input {
+			text-align: center;
+			margin: 0 10px;
+		}
+	}
+}
